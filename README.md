@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Maheen Raza and I'm a Software Engineering Student with a minor in Mechatronics, from Calgary, Alberta.</h2>
+<h2 align="left">Welcome!</h2>
+
+Hi 👋! My name is Maheen Raza and I'm a current Software Engineering Student with a minor in Mechatronics, currently pursuing an internship at Enbridge.
 
 ###
 
